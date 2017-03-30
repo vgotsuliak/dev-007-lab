@@ -1,1 +1,6 @@
-Singapore officially the Republic of Singapore, sometimes referred to as the Lion City or the Little Red Dot, is a sovereign city-state in Southeast Asia. It lies one degree (137 km) north of the equator, at the southern tip of peninsular Malaysia, with Indonesia's Riau Islands to the south. Singapore's territory consists of one main island along with 62 other islets. Since independence, extensive land reclamation has increased its total size by 23% (130 km2), and its greening policy has covered the densely populated island with tropical flora, parks and gardens.
+Singapore officially the Republic of Singapore, sometimes referred to as the Lion City or the Little Red Dot,
+is a sovereign city-state in Southeast Asia. It lies one degree (137 km) north of the equator, at the southern
+tip of peninsular Malaysia, with Indonesia's Riau Islands to the south. Singapore's territory consists of one main
+island along with 62 other islets. Since independence, extensive land reclamation has increased its total
+size by 23% (130 km2), and its greening policy has covered the densely populated island with tropical flora,
+parks and gardens.
